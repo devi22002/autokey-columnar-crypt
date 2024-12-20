@@ -16,3 +16,8 @@ Cocok untuk:
 1. Edukasi tentang algoritma kriptografi klasik.
 2. Eksperimen dengan metode penyandian berbasis teks.
 3. Penggunaan dalam aplikasi pengamanan data tingkat dasar.
+
+
+Dibuat oleh:
+140810220015 - Devi Humaira
+140810220076 - Tabina Adelia Rafa
