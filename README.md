@@ -1,4 +1,7 @@
 # autokey-columnar-crypt
+
+Link: https://autokey-columnar-cryptography.streamlit.app/
+
 Aplikasi Transformasi Kriptografi dengan Autokey dan Columnar yang dirancang untuk mengenkripsi dan mendekripsi kata-kata atau pesan menggunakan metode:
 1) Autokey Cipher
 2) Columnar Transposition Cipher
@@ -16,7 +19,6 @@ Cocok untuk:
 1. Edukasi tentang algoritma kriptografi klasik.
 2. Eksperimen dengan metode penyandian berbasis teks.
 3. Penggunaan dalam aplikasi pengamanan data tingkat dasar.
-
 
 Dibuat oleh:
 140810220015 - Devi Humaira
